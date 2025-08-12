@@ -3,7 +3,7 @@
 ## DESAFIO - BOARD DE TAREFAS
 
 
-Repositório criado durante lab "Criando seu Bord de Tarefas com Java"
+Repositório criado durante lab "Criando seu Board de Tarefas com Java".
     
 ### DIAGRAMA DE CLASSE 
 
